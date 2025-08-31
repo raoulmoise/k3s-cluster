@@ -54,6 +54,8 @@ From the control-plane node:
 sudo kubectl get nodes
 kubectl get pods -A
 ```
+<img width="694" height="59" alt="image" src="https://github.com/user-attachments/assets/e7d6aec2-28a5-4741-af66-8799ba32a37e" />
+
 ---
 
 ## 🚧 Status
